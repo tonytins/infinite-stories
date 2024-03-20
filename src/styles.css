@@ -16,7 +16,7 @@
 
 .container {
   margin: 0;
-  padding-top: 10vh;
+  padding: 25vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -28,6 +28,16 @@
   background-color: transparent;
   box-shadow: none;
 }
+
+.btn:hover {
+  background-color: transparent;
+  ;
+}
+
+.btn:focus {
+  background-color: transparent;
+}
+
 
 .logo {
   height: 6em;

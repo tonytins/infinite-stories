@@ -1,6 +1,6 @@
 # Infinite Stories
 
-<div style="text-align:center">
+<div style="display:block;margin-left:auto;margin-right:auto;">
 <img src="./icon.png" width="250">
 </div>
 

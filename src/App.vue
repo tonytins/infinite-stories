@@ -14,7 +14,7 @@ function toaid(event) {
 
 <template>
   <div class="container">
-    <h1>Choose your Adventure</h1>
+    <h1>Choose your Path</h1>
 
     <div class="row">
       <button class="btn" @click="tonovai"><img src="./assets/novelai_light.png" class="logo novelai"
