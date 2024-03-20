@@ -1,10 +1,15 @@
 # Infinite Stories
 
 <p align="center">
+<p>
 <img src="./icon.png" width="350">
+Infinite Stories is a NovelAI and AI Dungeon frontend.
+</p>
 </div>
 
-Infinite Stories stories is a NovelAI and AI Dungeon frontend.
+## Background
+
+While web technologies continue to evolve, implementations of the [PWA](https://en.wikipedia.org/wiki/Progressive_web_app) remain fragmented and often leave a lot to be desired. Only Chrome has support for it, but all popular desktop apps are just fancy wrappers around it, anyway. This has made attempting to use something like NovelAI or AI Dungeon as standalone desktop apps rather frustrating, to say the least. While Latitude does offer one on mobile, there is no equivalent on desktop. Infinite Stories is intended to solve this dilemma, but it uses the operating system's native web renderer instead.
 
 ## Requirements
 
