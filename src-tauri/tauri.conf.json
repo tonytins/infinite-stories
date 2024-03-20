@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "infinite-stories",
+    "productName": "stories",
     "version": "0.1.100"
   },
   "tauri": {

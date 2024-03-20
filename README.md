@@ -2,7 +2,6 @@
 
 <p align="center">
 <p>
-<p>
 <img src="./icon.png" width="350">
 </p>
 <p>
