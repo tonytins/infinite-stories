@@ -1,7 +1,7 @@
 # Infinite Stories
 
-<div style="display:block;margin-left:auto;margin-right:auto;">
-<img src="./icon.png" width="250">
+<p align="center">
+<img src="./icon.png" width="350">
 </div>
 
 Infinite Stories stories is a NovelAI and AI Dungeon frontend.
