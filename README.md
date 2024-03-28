@@ -1,15 +1,10 @@
 # Infinite Stories
 
 <p align="center">
-<p>
 <img src="./icon.png" width="350">
-</p>
-<p>
-Infinite Stories is a NovelAI and AI Dungeon frontend.
-</p>
 </div>
 
-Infinite Stories is a simple, open-source client for AI Dungeon and NovelAI, built on the Tauri framework. It was created to fill the gap left by the lack of a desktop client for both AI Dungeon and NovelAI.
+Infinite Stories is a simple, open-source client for AI Dungeon and NovelAI, built on the Tauri framework. It was created to fill the gap left by the lack of a desktop client for both.
 
 ## Prerequisites
 
