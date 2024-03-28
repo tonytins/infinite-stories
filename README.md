@@ -9,39 +9,33 @@ Infinite Stories is a NovelAI and AI Dungeon frontend.
 </p>
 </div>
 
-## Background
+Infinite Stories is a simple, open-source client for AI Dungeon and NovelAI, built on the Tauri framework. It was created to fill the gap left by the lack of a desktop client for both AI Dungeon and NovelAI.
 
-While web technologies continue to evolve, implementations of the [PWA](https://en.wikipedia.org/wiki/Progressive_web_app) standard remain fragmented to nonexistent, and often leave a lot to be desired. Only Chrome has support for it, but all popular desktop apps are just fancy wrappers around it, anyway. This has made attempting to use something like NovelAI or AI Dungeon as standalone desktop apps rather frustrating, to say the least. While Latitude does offer one on mobile, there is no equivalent on desktop. Infinite Stories is intended to solve this dilemma, but it uses the operating system's native web renderer instead.
+## Prerequisites
 
-## Requirements
-
-### Supported Platforms
-
-| Platform | Versions                           |
-| -------- | ---------------------------------- |
-| Windows  | 7 or later                         |
-| macOS    | 10.15 or later                     |
-| Linux    | webkit2gtk 4.1 (e.g. Ubuntu 20.04) |
-
-### Prerequisites
-
-- [Rust](https://www.rust-lang.org/tools/install) 2021 edition
-  - [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode)
-- [VS Code](https://code.visualstudio.com/)
-  - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Before you begin, ensure you have the latest versions of the following installed:
+- [Rust](https://www.rust-lang.org/tools/install)
+- [Node.js](https://nodejs.org/en/)
 
 ## Getting Started
 
-```shell
-$ yarn
-$ yarn tauri dev # Or "cargo tauri dev"
-```
+To get started with Infinite Stories, follow these steps:
 
-### Building
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the command `yarn` to install the necessary dependencies.
+4. To start the application in development mode, run `yarn tauri dev`.
+5. To build the application for production, run `yarn tauri build`.
 
-```shell
-$ yarn tauri build # Or "cargo tauri build"
-```
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## Disclaimer
 
@@ -50,4 +44,4 @@ NovelAI and AI Dungeon are copyright to their respective owners.
 
 ## License
 
-I license this project under the GPL-3.0 license - see [LICENSE](LICENSE) for details.
+Entries is licensed under the GPL-2.0 license. For more information, please refer to the [LICENSE](LICENSE) file in the project repository.
